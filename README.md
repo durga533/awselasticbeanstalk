@@ -1,7 +1,7 @@
 # awselasticbeanstalk
 AWS Beanstalk deployment 
 
-I wanted to have my Webportfolio which currently on my desktop to be deployment on AWS. I found Elastic Beanstalk to be the answer as it offering Platform as Service and deploy on fly.
+I wanted to have my Webportfolio which currently on my desktop to be deployment on AWS. I found Elastic Beanstalk to be the answer as it is offering Platform as Service and you can deploy your code on fly.
 
 One of the issues that I had while deploying my Python flask application on to the AWS Beanstalk was, the code always gets deployed successfully but the application doesnot work,give an internal error. 
 
